@@ -70,7 +70,7 @@ fn draw_button(
 fn main() {
     let (mut rl, thread) = raylib::init()
         .size(900, 900)
-        .title("Rust + raylib GUI")
+        .title("/////Rust + raylib GUI\\\\\\")
         .build();
     rl.set_target_fps(60);
 
